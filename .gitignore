@@ -1,0 +1,7 @@
+node_modules
+rubbish.*
+.DS_Store
+crud*
+src/hostname.js
+.VSCodeCounter
+
